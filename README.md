@@ -1,2 +1,5 @@
-# Calculator Using PHP 8 In CodeIgniter 4 Framework
+# Calculator Using  CodeIgniter 4 Framework
   A simple calculator which stores history in databasee
+# Requirement
+   > PHP 7.4
+   
