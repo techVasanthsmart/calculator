@@ -1,13 +1,12 @@
 <?php
-
 /**
  * Class : Common_model
  * Common Class to control over all the Data from Database
  * Author       : Vasanth(SVK)
  * version      : 1.0
  * Created-By   : Vasanth(SVK)
+ * Created-Date : 15-12-2022
 **/
-
 namespace App\Models;
 use CodeIgniter\Model;
 class Common_model extends Model {
